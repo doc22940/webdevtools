@@ -1,5 +1,5 @@
 # Best Web Dev Tools and Resources
-This is an old-school style collection of tools and resources for web developers. Organized by the one top recommendation for each need listed. All links are for free resources.
+This is an old-school style collection of tools and resources for web developers. Organized by the one top recommendation for each need listed. All links are for free resources and work in the browser. A separate compilation will be made for downloadable software.
 
 ## Code housing
 * Code repository: https://github.com
