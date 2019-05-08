@@ -2,8 +2,8 @@
 This is a collection of tools and resources for web developers. Organized by the one top recommendation for each need listed. All links are for free resources.
 
 ## Code housing
-Share code snippet: https://pastebin.com
-Code repository: https://github.com
+* Code repository: https://github.com
+* Code snippet: https://pastebin.com
 
 ## Generators
 Favion: https://favicon.io/
@@ -32,6 +32,9 @@ To-do list: https://workflowy.com
 ## Reference sites
 Technical forum: https://stackoverflow.com
 Whois lookup: http://whois.domaintools.com/
+
+## Templates
+readme.md: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
 ## Tutorials
 ### Drupal
